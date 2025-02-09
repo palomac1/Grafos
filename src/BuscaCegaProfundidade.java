@@ -76,7 +76,6 @@ public class BuscaCegaProfundidade {
             }
         }
 
-        System.out.println("\n=== Iniciando Busca Cega por Profundidade ===");
         buscaEmProfundidade(nos.get(1));
 
         scanner.close();
